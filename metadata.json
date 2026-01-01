@@ -1,0 +1,7 @@
+{
+  "name": "Everyday Mirror | Your AI Stylist",
+  "description": "The mirror that knows you. A personal AI-powered stylist for makeup, hair, and fashion transformations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
